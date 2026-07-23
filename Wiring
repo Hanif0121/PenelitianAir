@@ -1,0 +1,5 @@
+WIRING PM2.5 
+VCC - 5V
+GND - GND
+RX = 16
+TX = 17
